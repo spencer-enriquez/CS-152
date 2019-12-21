@@ -1,0 +1,5 @@
+package WeatherStation
+
+class ThermAdapter {
+  
+}
