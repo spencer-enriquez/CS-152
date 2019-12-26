@@ -1,3 +1,4 @@
+# List Processing in Scala
 This assignment is practice list processing in Scala by using iteration, traditional recursion, tail recursion, and pipelining.
 The main topics covered in this exercise are Streams, Lists, Cons, and Pipelines (map, filter, reduce).
 
